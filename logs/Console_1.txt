@@ -1,0 +1,67 @@
+[Info] Successfully preconnected to https://open.spotifycdn.com/
+
+[Info] Successfully preconnected to https://apresolve.spotify.com/
+
+[Info] Successfully preconnected to https://pixel-static.spotify.com/
+
+[Info] Successfully preconnected to https://pixel.spotify.com/
+
+[Info] Successfully preconnected to https://api.spotify.com/
+
+[Info] Successfully preconnected to https://gue1-spclient.spotify.com/
+
+[Info] Successfully preconnected to https://spclient.wg.spotify.com/
+
+[Info] Successfully preconnected to https://exp.wg.spotify.com/
+
+[Info] Successfully preconnected to https://gue1-dealer.spotify.com/
+
+[Info] Successfully preconnected to https://lineup-images.scdn.co/
+
+[Info] Successfully preconnected to https://daily-mix.scdn.co/
+
+[Info] Successfully preconnected to https://mosaic.scdn.co/
+
+[Info] Successfully preconnected to https://pl.scdn.co/
+
+[Info] Successfully preconnected to https://i.scdn.co/
+
+[Error] Failed to load resource: the server responded with a status of 429 (Too Many Requests) (envelope, line 0)
+
+[Error] Error sending hit payload length to Google Analytics
+
+	(anonymous function) (vendor~web-player.db19221c.js:1:125068)
+	(anonymous function) (Anonymous Script 1 (line 2:167))
+	(anonymous function) (analytics.js:36:467)
+	(anonymous function) (analytics.js:73:273)
+	(anonymous function) (analytics.js:53)
+	(anonymous function) (analytics.js:90:367)
+	(anonymous function) (analytics.js:89:180)
+	(anonymous function) (analytics.js:92:314)
+	rc (analytics.js:83:143)
+	z (analytics.js:83:176)
+	(anonymous function) (analytics.js:92:357)
+	Global Code (analytics.js:92:408)
+[Error] Refused to load https://tr.snapchat.com/config/com/fff7f198-e6aa-4833-b900-92d3854473b2.js because it does not appear in the script-src directive of the Content Security Policy.
+
+[Error] Failed to load resource: the server responded with a status of 404 () (liveramp.com, line 0)
+
+[Warning] The resource https://open.spotifycdn.com/cdn/fonts/spoticon_regular_2.d728648c.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it wasn't preloaded for nothing.
+
+[Error] Error: Error fetching playlist via GraphQL!
+
+	(anonymous function) (vendor~web-player.db19221c.js:1:125068)
+	onError (vendor~web-player.db19221c.js:1:4596577)
+	h (vendor~web-player.db19221c.js:1:4607633)
+	(anonymous function) (vendor~web-player.db19221c.js:1:4608462)
+[Error] Failed to load resource: the server responded with a status of 404 () (5448.a59236de.js.map, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (8916.bc91edb5.js.map, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (vendor~web-player.db19221c.js.map, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (xpui-routes-playlist.ea224170.js.map, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (web-player.fafe98fc.js.map, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (concerts-on-tour-playlist-card.e63035b8.js.map, line 0)

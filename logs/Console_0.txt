@@ -1,0 +1,47 @@
+[Error] Failed to load resource: the server responded with a status of 404 () (chunk-vendors.a4530562.css, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (app.2bf6cc0e.js, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (lessons~news~resources.20a35763.css, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (lessons.bc344ab5.js, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (lessons~resources.3652ded5.css, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (chunk-2d2308b7.6545c029.js, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (chunk-vendors.15f6ce0a.js, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (app.1237bf28.css, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (build~contribute~course~error~events~home~host~lessons~news~resources~tutorial~tutorials.b8a0a0f7.js, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (build~contribute~course~error~events~home~host~lessons~news~resources~tutorial~tutorials.9f55d702.css, line 0)
+
+[Error] Refused to execute https://proto.school/js/build~contribute~course~error~events~home~host~lessons~news~resources~tutorial~tutorials.b8a0a0f7.js as script because "X-Content-Type-Options: nosniff" was given and its Content-Type is not a script MIME type.
+
+[Error] Failed to load resource: the server responded with a status of 404 () (course~home~lessons~resources~tutorial~tutorials.079464d3.js, line 0)
+
+[Error] Refused to execute https://proto.school/js/course~home~lessons~resources~tutorial~tutorials.079464d3.js as script because "X-Content-Type-Options: nosniff" was given and its Content-Type is not a script MIME type.
+
+[Error] Failed to load resource: the server responded with a status of 404 () (lessons~resources.b1f7d577.js, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (chunk-57f93a34.17161cb9.js, line 0)
+
+[Error] Failed to load resource: the server responded with a status of 404 () (lessons~news~resources.22b8280e.js, line 0)
+
+[Error] Refused to execute https://proto.school/js/lessons~news~resources.22b8280e.js as script because "X-Content-Type-Options: nosniff" was given and its Content-Type is not a script MIME type.
+
+[Error] Refused to execute https://proto.school/js/lessons~resources.b1f7d577.js as script because "X-Content-Type-Options: nosniff" was given and its Content-Type is not a script MIME type.
+
+[Error] Refused to execute https://proto.school/js/lessons.bc344ab5.js as script because "X-Content-Type-Options: nosniff" was given and its Content-Type is not a script MIME type.
+
+[Error] Refused to execute https://proto.school/js/chunk-57f93a34.17161cb9.js as script because "X-Content-Type-Options: nosniff" was given and its Content-Type is not a script MIME type.
+
+[Error] Refused to execute https://proto.school/js/chunk-2d2308b7.6545c029.js as script because "X-Content-Type-Options: nosniff" was given and its Content-Type is not a script MIME type.
+
+[Error] Refused to execute https://proto.school/js/chunk-vendors.15f6ce0a.js as script because "X-Content-Type-Options: nosniff" was given and its Content-Type is not a script MIME type.
+
+[Error] Refused to execute https://proto.school/js/app.2bf6cc0e.js as script because "X-Content-Type-Options: nosniff" was given and its Content-Type is not a script MIME type.
+
+[Error] Failed to load resource: the server responded with a status of 400 () (favicon.png, line 0)

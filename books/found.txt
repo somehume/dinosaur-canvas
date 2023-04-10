@@ -1,0 +1,46 @@
+./pg70516.txt:    I put him in a match-box, and I kept him all the day....
+./pg70516.txt:    She said she wanted matches and she just took off the lid,
+./pg70516.txt:    An excited sort of beetle you've mistaken for a match.
+./pg70516.txt:    And we'd get another match-box and write BEETLE on the lid.
+./pg70516.txt:    An excited Alexander you've mistaken for a match.
+./6527-0.txt:   number of different locations, mixing and matching file: URLs (local
+./6527-0.txt:   * Matches any group of 0 or more characters.
+./6527-0.txt:   ? Matches exactly one character.
+./6527-0.txt:   wildcard that matches those characters. For example, [abc] matches
+./6527-0.txt:   sense is reversed; so [^abc] matches any character that is not a, b,
+./6527-0.txt:   or c. You can include a range, such as [a-j], which matches anything
+./6527-0.txt:   between a and j. The match is case sensitive, so to allow any
+./6527-0.txt:   since the * matches anything at all.
+./6527-0.txt:   for files whose names match XF86Config, you’d have to use a
+./6527-0.txt:   includes a _video driver_, so you must have an X server that matches
+./6527-0.txt:   that matches the regular expression. Regular expressions are
+./6527-0.txt:   matches that text. For example, the regular expression “my regular
+./6527-0.txt:   expression” matches the text “my regular expression,” and nothing
+./6527-0.txt:   .* matches pretty much any text at all. egrep only matches on a
+./6527-0.txt:   . Matches any single character except newline.
+./6527-0.txt:   * Matches zero or more occurrences of the preceding thing. So the
+./6527-0.txt:   expression a* matches zero or more lowercase a, and .* matches zero
+./6527-0.txt:   whole bracketed expression matches exactly one character out of the
+./6527-0.txt:   set. So [abc]matches one a, one b, or one c; it does not match zero
+./6527-0.txt:   characters, and it does not match a character other than these
+./6527-0.txt:   ^The matches The when it appears at the beginning of a line; there
+./6527-0.txt:   list. So [^abc] matches any single character, _except_ a, b, or c.
+./6527-0.txt:   character list. To match any lowercase letter, use [a-z]. You can
+./6527-0.txt:   have more than one range; so to match the first three or last three
+./6527-0.txt:parentheses, like this: c(ad|ab|at)matches cad or cab or cat. Without
+./6527-0.txt:the parentheses, it would match cad or ab or at instead
+./6527-0.txt:   c.pe matches cope, cape, caper.
+./6527-0.txt:   c\ .pe matches c.pe, c.per.
+./6527-0.txt:   sto*p matches stp, stop, stoop.
+./6527-0.txt:   car.*n matches carton, cartoon, carmen.
+./6527-0.txt:   xyz.* matches xyz and anything after it; some tools, like egrep,
+./6527-0.txt:   only match until the end of the line.
+./6527-0.txt:   ^The matches The at the beginning of a line.
+./6527-0.txt:   atime$ matches atime at the end of a line.
+./6527-0.txt:   ^Only$ matches a line that consists solely of the word Only—no
+./6527-0.txt:   b[aou]rn matches barn, born, burn.
+./6527-0.txt:   Ver[D-F] matches VerD, VerE, VerF.
+./6527-0.txt:   Ver[^0-9] matches Ver followed by any non-digit.
+./6527-0.txt:   the[ir][re] matches their, therr, there, theie.
+./6527-0.txt:   [A-Za-z][A-Za-z]* matches any word which consists of only letters,
+./6527-0.txt:   and at least one letter. It will not match numbers or spaces.
